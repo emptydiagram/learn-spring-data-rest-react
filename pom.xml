@@ -52,7 +52,6 @@
 			</plugin>
 
 			<!-- tag::frontend-maven-plugin[] -->
-            <!--
 			<plugin>
 				<groupId>com.github.eirslett</groupId>
 				<artifactId>frontend-maven-plugin</artifactId>
@@ -88,7 +87,6 @@
 					</execution>
 				</executions>
 			</plugin>
-            -->
 			<!-- end::frontend-maven-plugin[] -->
 		</plugins>
 	</build>
